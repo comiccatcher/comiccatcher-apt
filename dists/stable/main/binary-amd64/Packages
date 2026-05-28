@@ -1,0 +1,13 @@
+Package: comiccatcher
+Version: 0.7.2
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: ComicCatcher Developers <info@comiccatcher.org>
+Description: OPDS Comic Reader and Downloader
+ A desktop OPDS 2.0/1.2 browser and comic downloader/streamer/reader.
+Filename: pool/main/c/comiccatcher/comiccatcher-amd64.deb
+Size: 88024936
+MD5sum: 8147397ed2892b4a8c421eae86f44fe9
+SHA1: f06917a5035c26b71305ed522d50fbbdc02dfda6
+SHA256: f226e4d1fbe681142fc70b9831ce3281d1f0e1bef27cd8a8d7787256a72e7bb4
