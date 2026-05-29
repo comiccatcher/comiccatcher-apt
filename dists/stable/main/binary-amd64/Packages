@@ -7,7 +7,7 @@ Maintainer: ComicCatcher Developers <info@comiccatcher.org>
 Description: OPDS Comic Reader and Downloader
  A desktop OPDS 2.0/1.2 browser and comic downloader/streamer/reader.
 Filename: pool/main/c/comiccatcher/comiccatcher-amd64.deb
-Size: 88024936
-MD5sum: 8147397ed2892b4a8c421eae86f44fe9
-SHA1: f06917a5035c26b71305ed522d50fbbdc02dfda6
-SHA256: f226e4d1fbe681142fc70b9831ce3281d1f0e1bef27cd8a8d7787256a72e7bb4
+Size: 88013056
+MD5sum: af2335980d5419c64a3a6245f18d47bf
+SHA1: f84645c53fbdc02485e898b17a2d7b6653010f8a
+SHA256: c3e1e439b32c1ccb838bc2fe2c04143e52079efd1d6589e2eb59faef65e80cf3
